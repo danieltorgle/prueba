@@ -1,23 +1,72 @@
 #EXTM3U
  
-#EXTINF:-1 tvg-chno="1-1" ,Aztca Uno
+#EXTINF:-1 tvg-chno="1" ,Aztca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
-#EXTINF:-1 tvg-chno="2-1" ,Las Estrellas
-https://channel01dai-onlymex.akamaized.net/linear/hls/pa/event/_e1s_U52SCGL6zTnlTrbVQ/stream/dd5c679a-1eec-411a-839c-4e7716a45456:BRU/variant/ce42eb0cd2e212254ed3554b4684444f/bandwidth/14180324.m3u8?hdntl=exp=1648010180~acl=*~id=7c88ad58-2b76-4866-9526-9c3126e98c30~data=hdntl~hmac=89139027e4f41e75080355a6e8dfd0701806864809f14231ae874d3bd7525fb1&
+#EXTINF:-1 tvg-chno="2" ,Las Estrellas
+https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1898,vxttoken=cGF0aFVSST0lMkZMSVZFJTJGSDAxJTJGQ0FOQUwxODk4JTJGKiZleHBpcnk9MTY0NzkzODMyOCZmbj1zaGEyNTYmeCUzQXM9bDE5ZjNvamNuNHNmeWd3LGE3YWQ1ZDZmNzU2MjczMGI3M2M5NGM3MDMwYTc2NTgyMTEzZDY4MzMyOWRjMzc2ZWM2NTY2OGRiYjA5NGVhZjU=/PROFILE02.m3u8
 
-#EXTINF:-1 tvg-chno="30" ,HBO
-https://edge2.prepro.cvattv.com.ar/live/vod/HBOHD/SA_Live_WebVTT_FTA/HBOHD.m3u8
-
-#EXTINF:-1 tvg-chno="31" ,START CHANEL
-https://live3-ott.izzigo.tv/out/u/dash/FOX-HD/default_video_1_0_init.mp4?m=1634138770
-
-#EXTINF:-1 ,ESTRELLA TV
-https://estrellatv-plex.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 ,IMAGEN TV
+#EXTINF:-1 tvg-chno="4",IMAGEN TV
 https://www.dailymotion.com/cdn/live/video/x82z4if.m3u8?sec=huA8gX2mmQyoxoRngsPfV8MPVSy5jmlwnQ3nSqbso_LLlogqH4_mjZV_7ID4dZiK&dmTs=316059&dmV1st=DE5CFA884C788219A7DC89080DB266A3
 
-#EXTINF:-1 ,TELEMUNDO
+
+#EXTINF:-1 tvg-chno="5",canal 5
+https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1898,vxttoken=cGF0aFVSST0lMkZMSVZFJTJGSDAxJTJGQ0FOQUwxODk4JTJGKiZleHBpcnk9MTY0NzkzODMyOCZmbj1zaGEyNTYmeCUzQXM9bDE5ZjNvamNuNHNmeWd3LGE3YWQ1ZDZmNzU2MjczMGI3M2M5NGM3MDMwYTc2NTgyMTEzZDY4MzMyOWRjMzc2ZWM2NTY2OGRiYjA5NGVhZjU=/PROFILE05.m3u8
+
+#EXTINF:-1 tvg-chno="7",AZTECA 7
+https://us-b4-p-e-zs14.cdn.mdstrm.com/live-stream/609ad46a7a441137107d7a81/publish/media_300.m3u8?aid=5fea09a071a9945deebf5f7c&pid=Fb8Zj36nxDLrsNvveeb0tBJWzEkEbzfE&sid=NiNup2oTTZocBlK35AYe0z4zysKxuW7y&uid=ynDUdtg414V7pKNVtDYSDhafbtW6Ka3M&es=us-b4-p-e-zs14.cdn.mdstrm.com&ote=1648013609596&ot=RlsrQYtcIQ0GgDTeZlu9Dg&proto=https&pz=us
+
+#EXTINF:-1 tvg-chno="9",ADN 40 
+https://us-b4-p-e-pb13.cdn.mdstrm.com/live-stream/60b578b060947317de7b57ac/publish/media_300.m3u8?aid=5fea0f3673148d5d52cf6a76&pid=gKYy2jNZG5iUUSBJY3Vyr7OGn1TnxOF3&sid=kNDxYJSNHsbsyeb6kR97mmAALNet0paa&uid=Ghk3Gx8EI8ChibBHKYfGwN99DDGfSLiy&es=us-b4-p-e-pb13.cdn.mdstrm.com&ote=1648013685183&ot=xMsjA4sgNKoaiGOi9J5JfA&proto=https&pz=us
+
+#EXTINF:-1 tvg-chno="25",ESTRELLA TV
+https://estrellatv-plex.amagi.tv/playlist.m3u8
+
+ #EXTINF:-1 tvg-chno="26" ,TELEMUNDO
 https://h1.ustvgo.la/Telemundo/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMi8yMDIyIDQ6NDU6MDQgQU0maGFzaF92YWx1ZT1Id1R3OHhRY0tRYlRUd0djZTMzTW9BPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINF:-1 tvg-chno="130" ,HBO
+https://edge2.prepro.cvattv.com.ar/live/vod/HBOHD/SA_Live_WebVTT_FTA/HBOHD.m3u8
+
+#EXTINF:-1 tvg-chno="131" ,START CHANEL
+https://live3-ott.izzigo.tv/out/u/dash/FOX-HD/default_video_1_0_init.mp4?m=1634138770
+
+#EXTINF:-1 tvg-chno="132" ,HBO2
+https://edge2.prepro.cvattv.com.ar/live/vod/HBO_2/SA_Live_WebVTT_FTA/HBO_2.m3u8
+
+#EXTINF:-1 tvg-chno="135" ,HBO FAMILY
+https://live5-ott.izzigo.tv/out/u/dash/HBO-FAMILY-HD/default_video_1_0_init.mp4?m=1645640079
+
+#EXTINF:-1 tvg-chno="136" ,STUDIO UNIVERSAL
+https://live1-ott.izzigo.tv/out/u/dash/STUDIO-UNIVERSAL-HD/default_audio_1_5_init.mp4?m=1635758040
+
+#EXTINF:-1 tvg-chno="137" ,COMEDI CENTRAL
+https://edge2.prepro.cvattv.com.ar/live/vod/ComedyCentral/SA_Live_WebVTT_FTA/ComedyCentral.m3u8
+
+#EXTINF:-1 tvg-chno="138" ,WARNER
+https://edge2.prepro.cvattv.com.ar/live/vod/WarnerHD/SA_Live_WebVTT_FTA/WarnerHD.m3u8
+
+#EXTINF:-1 tvg-chno="138" ,SPACE
+https://live1-ott.izzigo.tv/out/u/dash/SPACE-HD/default_video_1_0_init.mp4?m=1630523998
+
+#EXTINF:-1 tvg-chno="225" ,DISCOVERY
+https://edge2.prepro.cvattv.com.ar/live/vod/DiscoveryHD/SA_Live_WebVTT_FTA/DiscoveryHD.m3u8
+
+#EXTINF:-1 tvg-chno="226" ,ANIMAL PLANET
+https://live1-ott.izzigo.tv/out/u/dash/ANIMAL-PLANET-HD/default_video_1_0_init.mp4?m=1643703615
+
+#EXTINF:-1 tvg-chno="227" ,NATGEO
+https://edge2.prepro.cvattv.com.ar/live/vod/NatGeoHD/SA_Live_WebVTT_FTA/NatGeoHD.m3u8
+
+#EXTINF:-1 tvg-chno="325" ,DISNEY
+https://cdn.prepro.cvattv.com.ar/live/vod/DisneyChannelHD/SA_Live_WebVTT_FTA/DisneyChannelHD.m3u8
+
+#EXTINF:-1 tvg-chno="326" ,NICKELODEON
+https://edge2.prepro.cvattv.com.ar/live/vod/Nickelodeon/SA_Live_WebVTT_FTA/Nickelodeon.m3u8
+
+#EXTINF:-1 tvg-chno="327" ,BOOMERANG
+https://edge2.prepro.cvattv.com.ar/live/vod/Boomerang/SA_Live_WebVTT_FTA/Boomerang.m3u8
+
+#EXTINF:-1 tvg-chno="328" ,CARTOON N
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 
