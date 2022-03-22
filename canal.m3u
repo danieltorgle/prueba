@@ -1,4 +1,12 @@
 #EXTM3U
  
-#EXTINF:-1 ,Aztca Uno
+#EXTINF:-1 tvg-chno="1-1" ,Aztca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+
+#EXTINF:-1 tvg-chno="2-1" ,Las Estrellas
+https://channel01dai-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8?hdnea=st=1647921903~exp=1647922203~acl=*~id=9518de3f-c7b3-4252-880f-9dbb61ab41d3~hmac=1ac151a57b5c23618c486ddeed846f84a74061ad7f592e04d300d66e4edbbbea&originpath=
+/linear/hls/pa/event/_e1s_U52SCGL6zTnlTrbVQ/stream/59e8e3cb-a4b0-46df-99e2-163feef5be70:BRU/master.m3u8
+
+#EXTINF:-1 tvg-chno="30" ,HBO
+https://edge2.prepro.cvattv.com.ar/live/vod/HBOHD/SA_Live_WebVTT_FTA/HBOHD.m3u8
+
